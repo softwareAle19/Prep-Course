@@ -1,0 +1,33 @@
+body {
+    background: url(https://blog.hubspot.es/hs-fs/hubfs/Ejemplo%20de%20fondo%20de%20pa%CC%81gina%20web%20con%20gra%CC%81ficos%20en%20Monys.jpg?width=590&name=Ejemplo%20de%20fondo%20de%20pa%CC%81gina%20web%20con%20gra%CC%81ficos%20en%20Monys.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    color: darkslateblue;
+}
+h1{
+    color: blueviolet;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+img{
+    width: 400px;
+    border-radius: 8px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: darkslateblue;
+    padding:50px;
+    border:5px dotted violet;
+}
+#spanId{
+    color: white;
+    font-size : 18px; 
+    margin: 50px;
+}
